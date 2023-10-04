@@ -5,4 +5,4 @@
 -  Prepare data for training and evaluation
 -  Create a scikit-learn pipeline
 -  Train and evaluate a model
-
+-  Store a model in the Watson Machine Learning (WML) repository
