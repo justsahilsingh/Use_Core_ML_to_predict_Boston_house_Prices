@@ -6,3 +6,4 @@
 -  Create a scikit-learn pipeline
 -  Train and evaluate a model
 -  Store a model in the Watson Machine Learning (WML) repository
+-  Deploy a model as Core ML
