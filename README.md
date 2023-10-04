@@ -3,3 +3,5 @@
 -  Load a sample data set from ``scikit-learn``
 -  Explore data
 -  Prepare data for training and evaluation
+-  Create a scikit-learn pipeline
+
