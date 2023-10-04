@@ -4,4 +4,5 @@
 -  Explore data
 -  Prepare data for training and evaluation
 -  Create a scikit-learn pipeline
+-  Train and evaluate a model
 
